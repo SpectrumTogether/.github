@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="https://spectrumtogether.org" target="_blank" rel="noopener noreferrer">
-    <img src="SpectrumTogether.png" alt="SpectrumTogether" width="120"><br>
-    SpectrumTogether
+    <img src="SpectrumTogether.png" alt="SpectrumTogether" width="150"><br>
+    Spectrum Together
   </a>
 </h1>
 
